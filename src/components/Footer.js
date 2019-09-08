@@ -13,3 +13,9 @@ Footer.propTypes = {
 
 export default Footer
 
+<<<<<<< refs/remotes/origin/test
+=======
+array1.map((number) => {
+    array2.include(number)
+})
+>>>>>>> #1
