@@ -12,3 +12,7 @@ Footer.propTypes = {
 }
 
 export default Footer
+
+array1.map((number) => {
+    array2.include(number)
+})
