@@ -8,9 +8,15 @@ const Header = (props) => (
         </div>
         <div className="content">
             <div className="inner">
+<<<<<<< HEAD
                 <h1>سایت آرمان</h1>
                 <p>سلام اسم من آرمانه <a href="https://html5up.net">فامیلیم مازندرانیه</a> ومن زبا هستم<br />
                <a href="https://html5up.net/license">همه ی دوستان عشقند</a> </p>
+=======
+                <h1>arman</h1>
+                <p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
+                for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
+>>>>>>> parent of 8b44c30... change discription of arman
             </div>
         </div>
         <nav>
